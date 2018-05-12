@@ -4,7 +4,7 @@ contributor:
   translator:
     agent_name: Taylor, Thomas N. (Thomas Nimmo)
     alias: Taylor, T. N. (Thomas Nimmo)
-    birthdate: &id001 1873
+    birthdate: 1873
     deathdate: 1963
     gutenberg_agent_id: '6937'
     url: http://www.gutenberg.org/2009/agents/6937
@@ -18,12 +18,14 @@ creator:
     - Martin, Teresa, Saint
     - Martin, Marie Francoise Therese, Saint
     - Martin, Marie Françoise Thérèse, Saint
-    birthdate: *id001
+    birthdate: 1873
     deathdate: 1897
     gutenberg_agent_id: '6923'
     url: http://www.gutenberg.org/2009/agents/6923
     wikipedia: http://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_de_Lisieux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16772#The-Story-of-a-Soul--L-Histoire-d-une--me---The-Autobiography-of-St.-Th-r-se-of-LisieuxWith-A_
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-09-28'
 gutenberg_type: Text
