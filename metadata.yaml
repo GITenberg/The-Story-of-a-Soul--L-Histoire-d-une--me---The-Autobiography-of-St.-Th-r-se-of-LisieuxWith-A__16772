@@ -1,0 +1,45 @@
+_repo: The-Story-of-a-Soul--L-Histoire-d-une--me---The-Autobiography-of-St.-Th-r-se-of-LisieuxWith-A__16772
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Taylor, Thomas N. (Thomas Nimmo)
+    alias: Taylor, T. N. (Thomas Nimmo)
+    birthdate: &id001 1873
+    deathdate: 1963
+    gutenberg_agent_id: '6937'
+    url: http://www.gutenberg.org/2009/agents/6937
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thérèse, de Lisieux, Saint
+    aliases:
+    - Martin, Teresa, Saint
+    - Martin, Marie Francoise Therese, Saint
+    - Martin, Marie Françoise Thérèse, Saint
+    birthdate: *id001
+    deathdate: 1897
+    gutenberg_agent_id: '6923'
+    url: http://www.gutenberg.org/2009/agents/6923
+    wikipedia: http://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_de_Lisieux
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lisieux (France) -- Biography'
+- !lcsh 'Thérèse, de Lisieux, Saint, 1873-1897'
+- !lcsh 'Christian saints -- France -- Lisieux -- Biography'
+- !lcc 'BX'
+title: 'The Story of a Soul (L''Histoire d''une Âme): The Autobiography of St. Thérèse
+  of Lisieux
+
+  With Additional Writings and Sayings of St. Thérèse'
+url: http://www.gutenberg.org/ebooks/16772
